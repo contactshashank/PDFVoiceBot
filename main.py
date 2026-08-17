@@ -320,7 +320,7 @@ def main():
     )
     initialize_session_state()
 
-    st.title("Chat with PDFs", anchor=False)
+    st.title("Voice Chat with PDFs", anchor=False)
     st.caption(
         "Type a question or select the microphone in the message box. "
         "Voice replies are AI-generated."
