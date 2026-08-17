@@ -65,8 +65,8 @@ This application is useful for:
 1. Clone Shashank's repository and enter the project directory:
 
 ```bash
-git clone https://github.com/contactshashank/GenAI.git
-cd GenAI
+git https://github.com/contactshashank/PDFVoiceBot.git
+cd PDFVoiceBot
 ```
 
 2. Create and activate a virtual environment.
