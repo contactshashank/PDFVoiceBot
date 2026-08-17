@@ -14,7 +14,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from pypdf import PdfReader
 from streamlit.errors import StreamlitSecretNotFoundError
 
-
+# This is to load environment
 load_dotenv()
 
 
