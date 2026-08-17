@@ -315,7 +315,7 @@ def render_sidebar():
 
 def main():
     st.set_page_config(
-        page_title="Chat with PDFs",
+        page_title="Voice Chat with PDFs",
         page_icon=":material/record_voice_over:",
     )
     initialize_session_state()
